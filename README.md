@@ -23,8 +23,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]
-<img align="left" alt="Ruby" width="26px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />]
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Ruby" width="26px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />
 <img align="left" alt="Rails" width="22px" src="https://raw.githubusercontent.com/rails/rails/master/actionpack/test/fixtures/multipart/ruby_on_rails.jpg" />
 <img align="left" alt="PHP" width="22px" src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
 <img align="left" alt="Laravel" width="22px" src="https://img.icons8.com/ios/50/e74c3c/laravel.png" />

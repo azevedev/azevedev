@@ -35,7 +35,7 @@
 <br />
 
 ---
-<img align="left" alt="Azevedomath Github Stats" src="https://github-readme-stats.vercel.app/api?username=azevedomath&show_icons=true&hide_border=false" />
+<img align="left" alt="Azevedomath Github Stats" src="https://github-readme-stats.vercel.app/api?username=azevedomath&show_icons=true&hide_border=false&count_private=true" />
 
 
 [email]: mailto:azevedev@gmail.com

@@ -37,7 +37,7 @@
 ---
 <img align="left" alt="Azevedomath Github Stats" src="https://github-readme-stats.vercel.app/api?username=azevedomath&show_icons=true&hide_border=false&count_private=true" />
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedomath&count_private=true" />
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedomath&layout=compact" />
 
 [email]: mailto:azevedev@gmail.com
 [twitter]: https://twitter.com/azevedev

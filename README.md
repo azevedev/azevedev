@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
+[<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,9 +37,7 @@
 <br />
 <br />
 
----
-
-<img align="left" alt="Azevedomath Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Azevedomath Github Stats" src="https://github-readme-stats.vercel.app/api?username=azevedomath&show_icons=true&hide_border=true" />
 
 
 [email]: mailto:azevedev@gmail.com

@@ -3,11 +3,12 @@
 ## I'm a CS Student, Web Developer and JS Enthusiastic!
 - 💻 Currently working with Laravel and PHP 🐘
 - 🏆 Tryind to be the best of me
+- 💎 I'm a Rubyist
 - 📖 I've master the hability to learn 🤓
 - 🥰 I love remote work
 - 🇧🇷 I'm from Brazil!
 - 🥅 2020 Goals: Improve my WebDev skills
-- ✨ Fun Fact:  I play video games 🎮
+- ✨ Fun Fact: I can play Drums 🥁🎶
 
 ### Contact me:
 [<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]

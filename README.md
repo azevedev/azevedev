@@ -7,8 +7,8 @@
 - 📖 I've master the hability to learn 🤓
 - 🥰 I love remote work
 - 🇧🇷 I'm from Brazil!
-- 🥅 2020 Goals: Improve my WebDev skills
-- ✨ Fun Fact: I can play Drums 🥁🎶
+- 🥅 2025 Goals: Improve my developer skills
+- ✨ Fun Fact: I can play drums 🥁🎶
 
 ### Contact me:
 [<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]

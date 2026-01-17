@@ -1,13 +1,13 @@
 # Hi there, I'm Matheus Azevedo 👋
 
 ## I'm a Computer Science Student and Software Developer with 7+ years of experience!
-- 💼 Currently working as a **Senior Full-Stack Developer**
+- 💼 Currently working as a **Senior Dev Manager**
 - 🏆 Passionate about building scalable systems and clean code
 - 💎 Experienced Ruby on Rails & Laravel developer
 - 📖 Always learning and improving my skills
 - 🥰 I love remote work and collaborative environments
 - 🇧🇷 Based in Brazil, open to global opportunities
-- 🥅 2025 Goals: Deepen my expertise in System Architecture and Leadership
+- 🥅 2026 Goals: Deepen my expertise in System Architecture and Leadership
 - ✨ Fun Fact: I can play drums 🥁🎶
 
 ### Contact me:
@@ -30,6 +30,13 @@
   <img alt="Nuxt" width="26px" src="https://api.iconify.design/logos:nuxt-icon.svg" />
   <img alt="React JS" width="26px" src="https://reactnative.dev/img/header_logo.svg" />
   <img alt="Next" width="26px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" />
+
+  <img alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+  <img alt="Pinia" width="26px" src="https://pinia.vuejs.org/logo.svg" />
+  <img alt="Vite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" />
+  <img alt="GraphQL" width="26px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+  <img alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 </div>
 <br />
 
@@ -37,6 +44,8 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img alt="React Native" width="26px" src="https://reactnative.dev/img/header_logo.svg" />
   <img alt="Flutter" width="26px" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" />
+  <img alt="Expo" width="26px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
+  <img alt="Ionic" width="32px" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" />
 </div>
 <br />
 
@@ -50,7 +59,6 @@
   <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   <img alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
   <img alt="NestJS" width="26px" src="https://nestjs.com/img/logo-small.svg" />
-  <img alt="Redis" width="60px" src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg" />
 </div>
 <br />
 
@@ -63,11 +71,21 @@
   <img alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
   <img alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
   <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img alt="Redis" width="60px" src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg" />
+  <img alt="BullMQ" width="26px" src="https://raw.githubusercontent.com/OptimalBits/bull/master/support/logo%402x.png" />
+
+  <img alt="SQLite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
+  
+  <img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+  <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+  
+  <img alt="Kamal" width="26px" src="https://raw.githubusercontent.com/basecamp/kamal/main/assets/logo.png" />
+  <img alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nginx/nginx.png" />
 </div>
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=azevedev)](https://git.io/streak-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=azevedev&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## Currently Exploring
 
@@ -78,9 +96,8 @@
 - 🏋️‍♀️ Leadership skills
 
 ---
-<img align="left" alt="Azevedomath Github Stats" src="https://github-readme-stats.vercel.app/api?username=azevedev&show_icons=true&hide_border=false&count_private=true" />
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedev&layout=compact" />
+<img align="left" alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azevedev&layout=compact&theme=dracula" />
 
 [email]: mailto:azevedev@gmail.com
 [twitter]: https://twitter.com/azevedev

@@ -87,6 +87,8 @@
 
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=azevedev&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
+<img align="left" alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azevedev&layout=compact&theme=dracula" />
+
 ## Currently Exploring
 
 - 🚀 Advanced DevOps practices
@@ -96,8 +98,6 @@
 - 🏋️‍♀️ Leadership skills
 
 ---
-
-<img align="left" alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azevedev&layout=compact&theme=dracula" />
 
 [email]: mailto:azevedev@gmail.com
 [twitter]: https://twitter.com/azevedev
